@@ -1,3 +1,5 @@
 name: e2e-mpqqih94
-team: easy-deploy
+otel:
+  runtime: nodejs
 port: 3000
+team: easy-deploy
